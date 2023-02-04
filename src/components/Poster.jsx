@@ -14,7 +14,7 @@ function Poster({ movie, onClick }) {
 
             <div className='justify-center items-center text-center pt-4'>
                 <h3 className='mb-2 truncate max-w-[180px] md:max-w-[200px] font-bold'>{movie.title}</h3>
-                <div>Trailer</div>
+                {/* <div>Trailer</div> */}
             </div>
         </div>
     )
