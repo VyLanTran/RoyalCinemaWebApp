@@ -65,7 +65,7 @@ This is a website where you can see all the movies that are currently playing at
 <br><br><br>
 
 <div>
-  <div>Finally, the app is responsive for all screen sizes. This is the app's view from a mobile screen. For small screens, the navbar contains a toggle button that shows drop-down menu when being clicked </div>
+  <div>Finally, the app is responsive for all screen sizes. This is the app's view from a mobile screen. For small screens, the navbar contains a toggle button that shows a drop-down menu when being clicked </div>
   <br>
   <div>
     <img width="500" alt="9" src="https://user-images.githubusercontent.com/85639418/217896428-173a6774-6e1e-45d8-ba70-4f763e62a053.png">
