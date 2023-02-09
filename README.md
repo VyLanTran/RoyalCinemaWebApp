@@ -48,6 +48,19 @@ This is a website where you can see all the movies that are currently playing at
   <img width="1440" alt="6" src="https://user-images.githubusercontent.com/85639418/217881867-9df8a14f-e074-4e49-897a-f4f82bfdc1d8.png">
   <br>
   <p align="center"><b>Ticket Selection</p>
+  <br> 
+  <img width="1440" alt="7" src="https://user-images.githubusercontent.com/85639418/217885638-81c56032-7c8d-41ae-8b26-6329c6836816.png">
+   <br>
+  <p align="center"><b>Payment Confirmation</p>
+</div>
+<br><br><br>
+
+<div>
+  <div>Goodle Firebase is used to control users' account. The app will verify if your email and password match to allow logging in</div>
+  <br>
+  <img width="1440" alt="8" src="https://user-images.githubusercontent.com/85639418/217886793-b35e02f4-ae89-40b0-9cd3-c1f2f007b49b.png">
+  <br>
+  <p align="center"><b>Sign In/Sign Up</p>
 </div>
 <br><br><br>
 
