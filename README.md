@@ -13,10 +13,10 @@ This is a website where you can see all the movies that are currently playing at
 - I also used Google Firebase in this project to control database user. Use email and password to log into your account.
 
 # Images from the app
-<div float="left" class="horizontalgap" style="width:10px">
-<img width="400" alt="1-hero" src="https://user-images.githubusercontent.com/85639418/217865849-e2d0ddc0-2d3b-4f1d-b709-a18c71c0e0c6.png">
-<img width="400" alt="1-hero" src="https://user-images.githubusercontent.com/85639418/217865849-e2d0ddc0-2d3b-4f1d-b709-a18c71c0e0c6.png">
+<div float="left" class="horizontalgap" style="width:20px">
 
+<img width="512" alt="1-hero" src="https://user-images.githubusercontent.com/85639418/217866251-0cbe3d9b-64d7-4b08-8352-6ef2fe2bb27f.png">
+<img width="512" alt="1-hero" src="https://user-images.githubusercontent.com/85639418/217866251-0cbe3d9b-64d7-4b08-8352-6ef2fe2bb27f.png">
 
 </div>
 
