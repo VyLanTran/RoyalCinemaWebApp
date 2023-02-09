@@ -19,15 +19,26 @@ This is a website where you can see all the movies that are currently playing at
   <img width="500" alt="1" src="https://user-images.githubusercontent.com/85639418/217868237-88305696-ce1b-4054-8741-ef5e9212dbf4.png">
   <img width="500" alt="2" src="https://user-images.githubusercontent.com/85639418/217868292-cd406667-f33e-46c5-a7cf-9055b9d16eda.png">
   <br>
-  <p align="center"><b>HOME PAGE</p?
+  <p align="center"><b>Home Page</p>
 </div>
-<br><br><br>
+<br><br>
+
 <div>
-  <div>The Movie Details page is shown after you click a movie's poster. This page includes information about the movie as well as available dates and showing times for users to choose from. Scroll the calendar bar horizontally and select a day that works for you, then all the possible time slots of that day will appear</div>
+  <div>The Movie Details page is shown after you click on a movie's poster. This page includes information about the movie as well as available dates and showing times for users to choose from. Scroll the calendar bar horizontally and select a day that works for you, then all the possible time slots of that day will appear</div>
   <br>
   <img width="500" alt="3" src="https://user-images.githubusercontent.com/85639418/217870588-43357d29-4b5e-41be-96de-7dc8f92a8677.png">
   <img width="500" alt="4" src="https://user-images.githubusercontent.com/85639418/217870625-e279d0fc-3401-4be5-9491-e2f0d1cefa99.png">
   <br>
-  <p align="center"><b>MOVIE DETAILS</p?
+  <p align="center"><b>Movie Details</p>
 </div>
+<br><br>
+
+<div>
+  <div>After selecting a date and time, you will see this auditorium map. To see the seat number, hover your mouse over a row. Click to reserve a seat, click again to deselect it. The seat numbers will be updated immediately on the summary section as you go. Hit "Continue to ticket" when you're done</div>
+  <br>
+  <img width="1440" alt="5" src="https://user-images.githubusercontent.com/85639418/217877417-b9a03bec-22ca-4442-8aad-3fd97e22a1bf.png">
+  <br>
+  <p align="center"><b>Seat Selection</p>
+</div>
+<br><br><br>
 
