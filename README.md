@@ -42,3 +42,12 @@ This is a website where you can see all the movies that are currently playing at
 </div>
 <br><br><br>
 
+<div>
+  <div>Next, you will select the types of ticket and their quantity. The bill will be updated accordingly as you adjust the quantity. The +/- buttons will be disabled if you go below zero or above the total number of seats selected previously. The "Checkout" button will only be highlighted and enabled if all seats are specified</div>
+  <br>
+  <img width="1440" alt="6" src="https://user-images.githubusercontent.com/85639418/217881867-9df8a14f-e074-4e49-897a-f4f82bfdc1d8.png">
+  <br>
+  <p align="center"><b>Ticket Selection</p>
+</div>
+<br><br><br>
+
