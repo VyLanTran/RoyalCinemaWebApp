@@ -27,8 +27,8 @@ This is a website where you can see all the movies that are currently playing at
 <div>
   <div>The Movie Details page is shown after you click on a movie's poster. This page includes information about the movie as well as available dates and showing times for users to choose from. Scroll the calendar bar horizontally and select a day that works for you, then all the possible time slots of that day will appear</div>
   <br>
-  <img width="500" alt="3" src="https://user-images.githubusercontent.com/85639418/217870588-43357d29-4b5e-41be-96de-7dc8f92a8677.png">
-  <img width="500" alt="4" src="https://user-images.githubusercontent.com/85639418/217870625-e279d0fc-3401-4be5-9491-e2f0d1cefa99.png">
+  <img width="1440" alt="3" src="https://user-images.githubusercontent.com/85639418/217870588-43357d29-4b5e-41be-96de-7dc8f92a8677.png">
+  <img width="1440" alt="4" src="https://user-images.githubusercontent.com/85639418/217870625-e279d0fc-3401-4be5-9491-e2f0d1cefa99.png">
   <br>
   <p align="center"><b>Movie Details</p>
 </div>
