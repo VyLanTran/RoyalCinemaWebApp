@@ -71,12 +71,14 @@ This is a website where you can see all the movies that are currently playing at
   <br>
   <div>
     <img width="400" alt="9" src="https://user-images.githubusercontent.com/85639418/217896428-173a6774-6e1e-45d8-ba70-4f763e62a053.png">
+    &emsp;
     <img width="400" alt="10" src="https://user-images.githubusercontent.com/85639418/217896460-42fa6760-8a49-4c19-b574-e3f26c7f735b.png">
   </div>
   <br><br>
   <div>
-    <img width="500" alt="11" src="https://user-images.githubusercontent.com/85639418/217896950-f5c7f7b7-cbcb-4a23-b4ed-0ec8e011c0c7.png">
-    <img width="500" alt="12" src="https://user-images.githubusercontent.com/85639418/217896966-cd3b0c28-51a6-4445-b989-5f378786a954.png">
+    <img width="400" alt="11" src="https://user-images.githubusercontent.com/85639418/217896950-f5c7f7b7-cbcb-4a23-b4ed-0ec8e011c0c7.png">
+    &emsp;
+    <img width="400" alt="12" src="https://user-images.githubusercontent.com/85639418/217896966-cd3b0c28-51a6-4445-b989-5f378786a954.png">
   </div>
   <p align="center"><b>Mobile screen</p>
 </div>
