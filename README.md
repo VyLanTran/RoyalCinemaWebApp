@@ -16,9 +16,9 @@ This is a website where you can see all the movies that are currently playing at
 <div>
   <div>This is the Home page with a hero showing now-playing movies. The next poster is automatically displayed every 2 seconds, but you can also swipe back and forth manually. Below the hero is a list of movies categorized into three groups: Now Playing, Upcoming, and Trending</div>
   <br>
-  <img width="300" alt="1" src="https://user-images.githubusercontent.com/85639418/217868237-88305696-ce1b-4054-8741-ef5e9212dbf4.png">
+  <img width="400" alt="1" src="https://user-images.githubusercontent.com/85639418/217868237-88305696-ce1b-4054-8741-ef5e9212dbf4.png">
   &nbsp;&nbsp;
-  <img width="300" alt="2" src="https://user-images.githubusercontent.com/85639418/217868292-cd406667-f33e-46c5-a7cf-9055b9d16eda.png">
+  <img width="400" alt="2" src="https://user-images.githubusercontent.com/85639418/217868292-cd406667-f33e-46c5-a7cf-9055b9d16eda.png">
   <br>
   <p align="center"><b>Home Page</p>
 </div>
