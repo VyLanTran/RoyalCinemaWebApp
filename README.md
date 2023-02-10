@@ -28,6 +28,7 @@ This is a website where you can see all the movies that are currently playing at
   <div>The Movie Details page is shown after you click on a movie's poster. This page includes information about the movie as well as available dates and showing times for users to choose from. Scroll the calendar bar horizontally and select a day that works for you, then all the possible time slots of that day will appear</div>
   <br>
   <img width="1440" alt="3" src="https://user-images.githubusercontent.com/85639418/217870588-43357d29-4b5e-41be-96de-7dc8f92a8677.png">
+  <br><br>
   <img width="1440" alt="4" src="https://user-images.githubusercontent.com/85639418/217870625-e279d0fc-3401-4be5-9491-e2f0d1cefa99.png">
   <br>
   <p align="center"><b>Movie Details</p>
@@ -69,10 +70,10 @@ This is a website where you can see all the movies that are currently playing at
   <div>Finally, the app is responsive for all screen sizes. This is the app's view from a mobile screen. For small screens, the navbar contains a toggle button that shows a drop-down menu when being clicked </div>
   <br>
   <div>
-    <img width="500" alt="9" src="https://user-images.githubusercontent.com/85639418/217896428-173a6774-6e1e-45d8-ba70-4f763e62a053.png">
-    <img width="500" alt="10" src="https://user-images.githubusercontent.com/85639418/217896460-42fa6760-8a49-4c19-b574-e3f26c7f735b.png">
+    <img width="400" alt="9" src="https://user-images.githubusercontent.com/85639418/217896428-173a6774-6e1e-45d8-ba70-4f763e62a053.png">
+    <img width="400" alt="10" src="https://user-images.githubusercontent.com/85639418/217896460-42fa6760-8a49-4c19-b574-e3f26c7f735b.png">
   </div>
-  <br>
+  <br><br>
   <div>
     <img width="500" alt="11" src="https://user-images.githubusercontent.com/85639418/217896950-f5c7f7b7-cbcb-4a23-b4ed-0ec8e011c0c7.png">
     <img width="500" alt="12" src="https://user-images.githubusercontent.com/85639418/217896966-cd3b0c28-51a6-4445-b989-5f378786a954.png">
